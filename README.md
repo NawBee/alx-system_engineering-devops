@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Hello World
+This script switches the current user to the user betty
