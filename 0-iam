@@ -1,4 +1,4 @@
 #!/bin/bash
-username betty
+usermod betty
 why?
 
