@@ -1,1 +1,1 @@
-This script switches the current user to the user betty
+this script switches the username to betty
